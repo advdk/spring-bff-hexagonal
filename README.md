@@ -2,6 +2,8 @@
 
 This repository demonstrates the implementation of a Backend-for-Frontend (BFF) for a B2B eCommerce system using the hexagonal architecture (also known as Ports and Adapters). The system is focused on handling eCommerce functionalities like managing products and basket.
 
+**DISCLAIMER**: This is a Proof of concept, for my own educational purpose. 
+
 ## Overview
 
 This BFF is designed to interact with external systems. Most of the business logic is delegated to these external services, making this project focused on exposing APIs for the frontend while handling tasks like product search, managing the basket.
